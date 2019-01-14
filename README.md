@@ -1,0 +1,2 @@
+# batchLearn
+springboot2.0中使用java配置来实现springbatch
