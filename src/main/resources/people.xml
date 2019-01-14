@@ -1,0 +1,26 @@
+<people>
+	<person>
+		<name>zhangsan</name>
+		<age>23</age>
+		<nation>汉族</nation>
+		<address>江苏苏州</address>
+	</person>
+	<person>
+		<name>lisi</name>
+		<age>24</age>
+		<nation>非汉族</nation>
+		<address>江苏南京</address>
+	</person>
+	<person>
+		<name>王五</name>
+		<age>25</age>
+		<nation>汉族</nation>
+		<address>上海</address>
+	</person>
+	<person>
+		<name>赵六</name>
+		<age>26</age>
+		<nation>非汉族</nation>
+		<address>北京</address>
+	</person>
+</people>
