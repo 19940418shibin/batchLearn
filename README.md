@@ -1,2 +1,3 @@
 # batchLearn
 springboot2.0中使用java配置来实现springbatch
+将application.properties中的数据库修改为自己的数据库配置
